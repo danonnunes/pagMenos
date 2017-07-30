@@ -18,10 +18,14 @@
 
         <TextView
             android:id="@+id/textView"
+            android:textSize="50sp"
+            android:typeface="sans"
+            android:textStyle="bold"
+            android:textColor="#0a094b"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
-            android:text="Muitas Promoções!"
+            android:text="PAM!"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
 
