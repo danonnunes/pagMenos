@@ -1,0 +1,6 @@
+[submodule "2017PROGMOBI_G8"]
+	path = 2017PROGMOBI_G8
+	url = https://github.com/mapsiva/2017PROGMOBI_G8.git
+[submodule "https://github.com/mapsiva/2017PROGMOBI_G8.git"]
+	path = https://github.com/mapsiva/2017PROGMOBI_G8.git
+	url = ""
